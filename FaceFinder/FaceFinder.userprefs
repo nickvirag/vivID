@@ -1,9 +1,8 @@
 ﻿<Properties>
-  <MonoDevelop.Ide.Workspace />
-  <MonoDevelop.Ide.Workbench ActiveDocument="Assets\Dive\OpenDiveSensor.cs">
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets\videoCamers.js">
     <Files>
-      <File FileName="Assets\Dive\DiveFPSController.js" Line="35" Column="11" />
-      <File FileName="Assets\Dive\OpenDiveSensor.cs" Line="24" Column="53" />
+      <File FileName="Assets\videoCamers.js" Line="9" Column="47" />
     </Files>
   </MonoDevelop.Ide.Workbench>
   <MonoDevelop.Ide.DebuggingService.Breakpoints>
