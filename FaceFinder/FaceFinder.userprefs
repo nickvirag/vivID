@@ -1,9 +1,11 @@
 ﻿<Properties>
-  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
-  <MonoDevelop.Ide.Workbench ActiveDocument="Assets\takeScreenshot.cs">
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets\customLabel.cs">
     <Files>
-      <File FileName="Assets\takeScreenshot.cs" Line="22" Column="18" />
+      <File FileName="Assets\takeScreenshot.cs" Line="44" Column="31" />
       <File FileName="Assets\videoCamera.cs" Line="1" Column="1" />
+      <File FileName="Assets\MagnetSensor.cs" Line="23" Column="2" />
+      <File FileName="Assets\customLabel.cs" Line="13" Column="4" />
     </Files>
   </MonoDevelop.Ide.Workbench>
   <MonoDevelop.Ide.DebuggingService.Breakpoints>

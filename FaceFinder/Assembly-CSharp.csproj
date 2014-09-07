@@ -48,6 +48,7 @@
   <ItemGroup>
      <Compile Include="Assets\Dive\OpenDiveSensor.cs" />
      <Compile Include="Assets\MagnetSensor.cs" />
+     <Compile Include="Assets\customLabel.cs" />
      <Compile Include="Assets\drawCamera.cs" />
      <Compile Include="Assets\takeScreenshot.cs" />
      <Compile Include="Assets\videoCamera.cs" />
